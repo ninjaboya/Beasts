@@ -9,7 +9,7 @@
       "type": "earnable",
       "prix_shop": "100",
       "description": "Un renard rusé plein de malice.",
-      "money_per_stage": [100, 150, 200, 250, 300],
+      "money_per_stage": [100, 150, 200, 250, 300, 350, 400, 450],
       "phases": [
         {
           "name": "Oeuf de Renard",
@@ -67,8 +67,44 @@
         }
       ]
     },
+
+          "id": 2,
+      "slug": "chien",
+      "name": "Oeuf de Chien",
+      "base_name": "Oeuf de Chien",
+      "rarity": "common",
+      "type": "starter",
+      "prix_shop": "100",
+      "description": "Un Chien",
+      "money_per_stage": [100, 150, 200, 250, 300],
+      "phases": [
+        {
+          "name": "Oeuf de Chien",
+          "image": "https://raw.githubusercontent.com/ninjaboya/Beasts/main/images/renard1.png",
+          "description": "."
+        },
+        {
+          "name": "Oeuf de Chien Fissuré",
+          "image": "https://raw.githubusercontent.com/ninjaboya/Beasts/main/images/renard2.png",
+          "description": "."
+        },
+        {
+          "name": "Oeuf de Chien Cassé",
+          "image": "https://raw.githubusercontent.com/ninjaboya/Beasts/main/images/renard_3.png",
+          "description": "."
+        },
+        {
+          "name": "Oeuf de Chien Ouvert",
+          "image": "https://raw.githubusercontent.com/ninjaboya/Beasts/main/images/renard_4.png",
+          "description": "."
+        },
+        {
+          "name": "Chiot",
+          "image": "https://raw.githubusercontent.com/ninjaboya/Beasts/main/images/renard_5.png",
+          "description": "."
+        },
     {
-      "id": 2,
+      "id": 3,
       "slug": "chat",
       "name": "Oeuf de Chat",
       "base_name": "Oeuf de Chat",
@@ -80,27 +116,27 @@
       "phases": [
         {
           "name": "Oeuf de Chat",
-          "image": "https://raw.githubusercontent.com/<TON_USER>/<TON_REPO>/main/images/chat_phase0.png",
+          "image": "https://raw.githubusercontent.com/ninjaboya/Beasts/main/images/cat_1.png",
           "description": "Un oeuf félin prêt à éclore."
         },
         {
-          "name": "Chaton",
-          "image": "https://raw.githubusercontent.com/<TON_USER>/<TON_REPO>/main/images/chat_phase1.png",
+          "name": "Oeuf de Chat Fissuré",
+          "image": "https://raw.githubusercontent.com/ninjaboya/Beasts/main/images/cat_2.png",
           "description": "Le chaton est joueur et curieux."
         },
         {
-          "name": "Chat",
-          "image": "https://raw.githubusercontent.com/<TON_USER>/<TON_REPO>/main/images/chat_phase2.png",
+          "name": "Oeuf de Chat Cassé",
+          "image": "https://raw.githubusercontent.com/ninjaboya/Beasts/main/images/cat_3.png",
           "description": "Un chat confiant et agile."
         },
         {
-          "name": "Chat Mystique",
-          "image": "https://raw.githubusercontent.com/<TON_USER>/<TON_REPO>/main/images/chat_phase3.png",
+          "name": "Oeuf de Chat Ouvert",
+          "image": "https://raw.githubusercontent.com/ninjaboya/Beasts/main/images/cat_4.png",
           "description": "Un chat aux yeux brillants de magie."
         },
         {
-          "name": "Chat Stellaire",
-          "image": "https://raw.githubusercontent.com/<TON_USER>/<TON_REPO>/main/images/chat_phase4.png",
+          "name": "Chaton",
+          "image": "https://raw.githubusercontent.com/ninjaboya/Beasts/main/images/cat_5.png",
           "description": "Un chat légendaire lié aux constellations."
         }
       ],
