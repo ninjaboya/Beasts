@@ -13,42 +13,42 @@
       "phases": [
         {
           "name": "Oeuf de Renard",
-          "image": "https://raw.githubusercontent.com/<TON_USER>/<TON_REPO>/main/images/renard_phase0.png",
+          "image": "https://raw.githubusercontent.com/ninjaboya/Beasts/main/images/renard1.png",
           "description": "Le renard commence sous forme d'oeuf."
         },
         {
           "name": "Oeuf de Renard Fissuré",
-          "image": "https://raw.githubusercontent.com/<TON_USER>/<TON_REPO>/main/images/renard_phase1.png",
+          "image": "https://raw.githubusercontent.com/ninjaboya/Beasts/main/images/renard2.png",
           "description": "Le renardeau sort de son oeuf et apprend le monde."
         },
         {
           "name": "Oeuf de Renard Craquelé",
-          "image": "https://raw.githubusercontent.com/<TON_USER>/<TON_REPO>/main/images/renard_phase2.png",
+          "image": "https://raw.githubusercontent.com/ninjaboya/Beasts/main/images/renard_3.png",
           "description": "Un renard agile et rusé, prêt à évoluer."
         },
         {
           "name": "Oeuf de Renard Cassé",
-          "image": "https://raw.githubusercontent.com/<TON_USER>/<TON_REPO>/main/images/renard_phase3.png",
+          "image": "https://raw.githubusercontent.com/ninjaboya/Beasts/main/images/renard_4.png",
           "description": "Un kitsune mystique avec une queue supplémentaire."
         },
         {
           "name": "Oeuf de Renard Ouvert",
-          "image": "https://raw.githubusercontent.com/<TON_USER>/<TON_REPO>/main/images/renard_phase4.png",
+          "image": "https://raw.githubusercontent.com/ninjaboya/Beasts/main/images/renard_5.png",
           "description": "Une créature légendaire, maître des illusions."
         },
         {
           "name": "Coquilles d'Oeuf de Renard",
-          "image": "https://raw.githubusercontent.com/<TON_USER>/<TON_REPO>/main/images/renard_phase3.png",
+          "image": "https://raw.githubusercontent.com/ninjaboya/Beasts/main/images/renard_6.png",
           "description": "Un kitsune mystique avec une queue supplémentaire."
         },
         {
           "name": "Renardeau Assis",
-          "image": "https://raw.githubusercontent.com/<TON_USER>/<TON_REPO>/main/images/renard_phase3.png",
+          "image": "https://raw.githubusercontent.com/ninjaboya/Beasts/main/images/renard_7.png",
           "description": "Un kitsune mystique avec une queue supplémentaire."
         },
         {
           "name": "Renardeau",
-          "image": "https://raw.githubusercontent.com/<TON_USER>/<TON_REPO>/main/images/renard_phase3.png",
+          "image": "https://raw.githubusercontent.com/ninjaboya/Beasts/main/images/renard_8.png",
           "description": "Un kitsune mystique avec une queue supplémentaire."
         }
       ],
