@@ -6,7 +6,7 @@
       "rarity": "common",
       "paliers": 5,
       "type": "starter",
-      "prix_shop": "gratuit",
+      "prix_shop": "100",
       "description": "Un fidèle compagnon, loyal et protecteur",
       "money_per_stage": [100, 150, 200, 250, 300],
       "evolutions": [
@@ -24,7 +24,7 @@
       "rarity": "common",
       "paliers": 5,
       "type": "starter",
-      "prix_shop": "gratuit",
+      "prix_shop": "100",
       "description": "Un compagnon indépendant et mystérieux",
       "money_per_stage": [100, 150, 200, 250, 300],
       "evolutions": [
@@ -42,7 +42,7 @@
       "rarity": "common",
       "paliers": 5,
       "type": "starter",
-      "prix_shop": "gratuit",
+      "prix_shop": "100",
       "description": "Un petit compagnon rapide et vif",
       "money_per_stage": [100, 150, 200, 250, 300],
       "evolutions": [
@@ -60,7 +60,7 @@
       "rarity": "common",
       "paliers": 5,
       "type": "starter",
-      "prix_shop": "gratuit",
+      "prix_shop": "100",
       "description": "Une petite bête curieuse et intelligente",
       "money_per_stage": [100, 150, 200, 250, 300],
       "evolutions": []
