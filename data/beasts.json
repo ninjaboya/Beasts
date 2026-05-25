@@ -80,27 +80,27 @@
       "phases": [
         {
           "name": "Oeuf de Chien",
-          "image": "https://raw.githubusercontent.com/ninjaboya/Beasts/main/images/renard1.png",
+          "image": "https://raw.githubusercontent.com/ninjaboya/Beasts/main/images/dog_1.png",
           "description": "."
         },
         {
           "name": "Oeuf de Chien Fissuré",
-          "image": "https://raw.githubusercontent.com/ninjaboya/Beasts/main/images/renard2.png",
+          "image": "https://raw.githubusercontent.com/ninjaboya/Beasts/main/images/dog_2.png",
           "description": "."
         },
         {
           "name": "Oeuf de Chien Cassé",
-          "image": "https://raw.githubusercontent.com/ninjaboya/Beasts/main/images/renard_3.png",
+          "image": "https://raw.githubusercontent.com/ninjaboya/Beasts/main/images/dog_3.png",
           "description": "."
         },
         {
           "name": "Oeuf de Chien Ouvert",
-          "image": "https://raw.githubusercontent.com/ninjaboya/Beasts/main/images/renard_4.png",
+          "image": "https://raw.githubusercontent.com/ninjaboya/Beasts/main/images/dog_4.png",
           "description": "."
         },
         {
           "name": "Chiot",
-          "image": "https://raw.githubusercontent.com/ninjaboya/Beasts/main/images/renard_5.png",
+          "image": "https://raw.githubusercontent.com/ninjaboya/Beasts/main/images/dog_5.png",
           "description": "."
         },
     {
@@ -138,14 +138,6 @@
           "name": "Chaton",
           "image": "https://raw.githubusercontent.com/ninjaboya/Beasts/main/images/cat_5.png",
           "description": "Un chat légendaire lié aux constellations."
-        }
-      ],
-      "evolutions": [
-        {
-          "name": "Chat Mystique",
-          "requires": 3,
-          "rarity": "uncommon",
-          "description": "Un chat aux yeux brillants de magie"
         }
       ]
     }
