@@ -1,0 +1,122 @@
+{
+  "beasts": [
+    {
+      "id": 1,
+      "name": "Oeuf de Chien",
+      "rarity": "common",
+      "paliers": 5,
+      "type": "starter",
+      "prix_shop": "gratuit",
+      "description": "Un fidèle compagnon, loyal et protecteur",
+      "money_per_stage": [100, 150, 200, 250, 300],
+      "evolutions": [
+        {
+          "name": "Chien Éveillé",
+          "requires": 3,
+          "rarity": "uncommon",
+          "description": "Un chien devenu plus fort et sage"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Oeuf de Chat",
+      "rarity": "common",
+      "paliers": 5,
+      "type": "starter",
+      "prix_shop": "gratuit",
+      "description": "Un compagnon indépendant et mystérieux",
+      "money_per_stage": [100, 150, 200, 250, 300],
+      "evolutions": [
+        {
+          "name": "Chat Mystique",
+          "requires": 3,
+          "rarity": "uncommon",
+          "description": "Un chat aux yeux brillants de magie"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Oeuf de Lapin",
+      "rarity": "common",
+      "paliers": 5,
+      "type": "starter",
+      "prix_shop": "gratuit",
+      "description": "Un petit compagnon rapide et vif",
+      "money_per_stage": [100, 150, 200, 250, 300],
+      "evolutions": [
+        {
+          "name": "Lapin de Vitesse",
+          "requires": 3,
+          "rarity": "uncommon",
+          "description": "Un lapin capable de courir à la vitesse du vent"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Oeuf de Souris",
+      "rarity": "common",
+      "paliers": 5,
+      "type": "starter",
+      "prix_shop": "gratuit",
+      "description": "Une petite bête curieuse et intelligente",
+      "money_per_stage": [100, 150, 200, 250, 300],
+      "evolutions": []
+    },
+    {
+      "id": 5,
+      "name": "Oeuf de Hamster",
+      "rarity": "common",
+      "paliers": 5,
+      "type": "starter",
+      "prix_shop": "gratuit",
+      "description": "Un compagnon rond et adorable",
+      "money_per_stage": [100, 150, 200, 250, 300],
+      "evolutions": []
+    },
+    {
+      "id": 6,
+      "name": "Oeuf de Renard",
+      "rarity": "common",
+      "paliers": 5,
+      "type": "premium",
+      "prix_shop": 500,
+      "description": "Un renard rusé plein de malice",
+      "money_per_stage": [100, 150, 200, 250, 300],
+      "evolutions": [
+        {
+          "name": "Kitsune",
+          "requires": 3,
+          "rarity": "uncommon",
+          "description": "Un renard avec une queue supplémentaire, source de pouvoirs"
+        },
+        {
+          "name": "Kitsune à 9 Queues",
+          "requires": 3,
+          "rarity": "rare",
+          "description": "Un kitsune légendaire avec 9 queues dorées"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Oeuf de Fourmi",
+      "rarity": "common",
+      "paliers": 5,
+      "type": "premium",
+      "prix_shop": 1000,
+      "description": "Une reine des fourmis microscopique",
+      "money_per_stage": [100, 150, 200, 250, 300],
+      "evolutions": [
+        {
+          "name": "Reine des Fourmis",
+          "requires": 3,
+          "rarity": "uncommon",
+          "description": "Une reine puissante capable de commander des armées"
+        }
+      ]
+    }
+  ]
+}
