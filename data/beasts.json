@@ -6,7 +6,7 @@
       "name": "Oeuf de Renard",
       "base_name": "Oeuf de Renard",
       "rarity": "uncommon",
-      "type": "starter",
+      "type": "earnable",
       "prix_shop": "100",
       "description": "Un renard rusé plein de malice.",
       "money_per_stage": [100, 150, 200, 250, 300],
